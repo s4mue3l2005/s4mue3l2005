@@ -8,19 +8,19 @@
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
 <picture>
-  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px>
+  <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- 🎓 I'm a **Junior Software Developer** passionate about building web applications.
-- 🌱 Currently improving my skills in **JavaScript**, **Node.js**, and **Linux**.
-- 💼 Interested in **backend**, **APIs**, and **automation tools**.
-- 💡 Open to collaboration on innovative web-based or educational projects.
-- ⚙️ Tools I use: VScode, GitHub, Postman, MySQL Workbench, JSON Server.
-- 📚 I’m constantly learning about **cloud platforms** like Azure and version control tools like **Git**.
-- ✍️ I also enjoy documenting and organizing projects professionally.
+- 🎓 I'm a **Junior Software Developer** passionate about building web applications.  
+- 🌱 Currently improving my skills in **JavaScript**, **Node.js**, and **Linux**.  
+- 💼 Interested in **backend**, **APIs**, and **automation tools**.  
+- 💡 Open to collaboration on innovative web-based or educational projects.  
+- ⚙️ Tools I use: VScode, GitHub, Postman, MySQL Workbench, JSON Server.  
+- 📚 I’m constantly learning about **cloud platforms** like Azure and version control tools like **Git**.  
+- ✍️ I also enjoy documenting and organizing projects professionally.  
 
 ---
 
