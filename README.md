@@ -52,11 +52,11 @@
 
 <br><br>
 
-[![Samuel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SamuelArena&theme=tokyonight)](https://git.io/praveenscience)
+[![Samuel's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=s4mue3l2005&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=SamuelArena&show_icons=true&theme=tokyonight) | ![Samuel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamuelArena&theme=tokyonight) |
+| ![Samuel's github stats](https://github-readme-stats.vercel.app/api?username=s4mue3l2005&show_icons=true&theme=tokyonight) | ![Samuel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=s4mue3l2005&theme=tokyonight) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelArena&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=SamuelArena&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s4mue3l2005&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=s4mue3l2005&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
 
